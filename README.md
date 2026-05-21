@@ -35,7 +35,7 @@ Para asegurar un diseño robusto y mantenible, la arquitectura lógica integra l
 
 ## 3. Arquitectura Física: Diagrama de Implementación
 
-![Diagrama de Implementación](imagenes/DiagramaDelmplementacion.png)
+![Diagrama de Implementación](imagenes/DiagramaDeImplementacion.png)
 
 ### Decisiones técnicas y despliegue
 El diagrama ilustra una topología distribuida que refleja los patrones aplicados en la infraestructura real:
